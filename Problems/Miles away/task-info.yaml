@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def mi_to_km():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8934
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8934">JetBrains
+    Academy</a></html>
+  time: Sun, 04 Oct 2020 11:23:39 UTC
+record: -1
